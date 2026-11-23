@@ -27,3 +27,4 @@ dist-ssr
 !.env.example
 audit-report.json
 .firebase/
+coverage/
