@@ -168,9 +168,8 @@ To deploy the production build:
 npm run build
 firebase deploy --only hosting
 
-The live application URL will be added here after successful deployment:
 
-Live Demo: To be added after deployment.
+
 
 Version Control
 
@@ -199,3 +198,5 @@ Developed as a React final project.
 
 Project Name: EventHub
 Repository: https://github.com/rodha-dev/Event-Hub
+
+firebase hosting:: https://eventhub-1495e.web.app
